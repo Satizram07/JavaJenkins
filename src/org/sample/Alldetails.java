@@ -11,8 +11,7 @@ public class Alldetails extends InheritBank{
 	public static void main(String[] args) {
 	Alldetails bank= new Alldetails();
 	bank.nameAge("sathish", 32);
-	bank.contact(701051539l);
-	bank.location("chennai");
+	
 	}
 	
 }
